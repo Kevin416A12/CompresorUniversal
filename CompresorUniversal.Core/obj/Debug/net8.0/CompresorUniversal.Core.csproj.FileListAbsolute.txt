@@ -9,3 +9,4 @@ C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversa
 C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.Core\obj\Debug\net8.0\refint\CompresorUniversal.Core.dll
 C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.Core\obj\Debug\net8.0\CompresorUniversal.Core.pdb
 C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.Core\obj\Debug\net8.0\ref\CompresorUniversal.Core.dll
+C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.Core\obj\Debug\net8.0\CompresorUniversal.Core.sourcelink.json

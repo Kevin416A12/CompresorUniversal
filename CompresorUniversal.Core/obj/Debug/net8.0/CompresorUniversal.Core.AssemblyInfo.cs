@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CompresorUniversal.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70a32c259b20838b40ae3314b3afdef471ffc8b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CompresorUniversal.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CompresorUniversal.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

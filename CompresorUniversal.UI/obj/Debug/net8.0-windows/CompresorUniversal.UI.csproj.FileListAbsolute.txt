@@ -16,3 +16,4 @@ C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversa
 C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.UI\obj\Debug\net8.0-windows\CompresorUniversal.UI.pdb
 C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.UI\obj\Debug\net8.0-windows\CompresorUniversal.UI.genruntimeconfig.cache
 C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.UI\obj\Debug\net8.0-windows\ref\CompresorUniversal.UI.dll
+C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.UI\obj\Debug\net8.0-windows\CompresorUniversal.UI.sourcelink.json
