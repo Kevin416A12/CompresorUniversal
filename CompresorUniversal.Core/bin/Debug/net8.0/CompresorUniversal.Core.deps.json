@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CompresorUniversal.Core/1.0.0": {
+        "runtime": {
+          "CompresorUniversal.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompresorUniversal.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

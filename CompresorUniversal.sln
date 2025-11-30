@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompresorUniversal.UI", "CompresorUniversal.UI\CompresorUniversal.UI.csproj", "{744C8911-894A-423D-93FC-6D56CDCDD9C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompresorUniversal.Core", "CompresorUniversal.Core\CompresorUniversal.Core.csproj", "{7445BD6E-129B-4A4D-94DB-74D7FD8690DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{744C8911-894A-423D-93FC-6D56CDCDD9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744C8911-894A-423D-93FC-6D56CDCDD9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744C8911-894A-423D-93FC-6D56CDCDD9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744C8911-894A-423D-93FC-6D56CDCDD9C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7445BD6E-129B-4A4D-94DB-74D7FD8690DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7445BD6E-129B-4A4D-94DB-74D7FD8690DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7445BD6E-129B-4A4D-94DB-74D7FD8690DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7445BD6E-129B-4A4D-94DB-74D7FD8690DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

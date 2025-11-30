@@ -1,0 +1,11 @@
+C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.Core\bin\Debug\net8.0\CompresorUniversal.Core.deps.json
+C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.Core\bin\Debug\net8.0\CompresorUniversal.Core.dll
+C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.Core\bin\Debug\net8.0\CompresorUniversal.Core.pdb
+C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.Core\obj\Debug\net8.0\CompresorUniversal.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.Core\obj\Debug\net8.0\CompresorUniversal.Core.AssemblyInfoInputs.cache
+C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.Core\obj\Debug\net8.0\CompresorUniversal.Core.AssemblyInfo.cs
+C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.Core\obj\Debug\net8.0\CompresorUniversal.Core.csproj.CoreCompileInputs.cache
+C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.Core\obj\Debug\net8.0\CompresorUniversal.Core.dll
+C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.Core\obj\Debug\net8.0\refint\CompresorUniversal.Core.dll
+C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.Core\obj\Debug\net8.0\CompresorUniversal.Core.pdb
+C:\Users\anoni\Documents\Proyectos de Rider\CompresorUniversal\CompresorUniversal.Core\obj\Debug\net8.0\ref\CompresorUniversal.Core.dll

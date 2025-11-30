@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CompresorUniversal.UI/1.0.0": {
+        "dependencies": {
+          "CompresorUniversal.Core": "1.0.0"
+        },
+        "runtime": {
+          "CompresorUniversal.UI.dll": {}
+        }
+      },
+      "CompresorUniversal.Core/1.0.0": {
+        "runtime": {
+          "CompresorUniversal.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompresorUniversal.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompresorUniversal.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
