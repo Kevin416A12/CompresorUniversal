@@ -4,8 +4,11 @@ hacer clic en el botón “Seleccionar archivos” y eligir uno o varios archivo
 
 2. Elegir un algoritmo
 En la sección de algoritmo, seleccionar el algoritmo de compresión que se quiere utilizar.
+
 -Huffman
+
 -LZ77
+
 -LZ78
 
 4. Comprimir
@@ -22,3 +25,4 @@ Huffman_PruebaHuffman.myzip
 
 5. Descomprimir
 Para descomprimir un archivo, haz clic en “Descomprimir”, selecciona el archivo .myzip y la herramienta generará los archivos originales dentro de una carpeta.
+
